@@ -1,0 +1,7 @@
+project_id = "zrfknvdpmwskpfzpexfi"
+
+[functions.send-payment-reminder]
+verify_jwt = false
+
+[functions.send-weekly-reminders]
+verify_jwt = false
